@@ -1,0 +1,29 @@
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\Управление проектами.exe.config
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\Управление проектами.exe
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\Управление проектами.pdb
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление проектами.csproj.AssemblyReference.cache
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Form1.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Properties.Resources.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление проектами.csproj.GenerateResource.cache
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление проектами.csproj.CoreCompileInputs.cache
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление проектами.exe
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление проектами.pdb
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\MetroFramework.dll
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Menu.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Client.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Employee.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Expenses.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Post.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Projeck_Management.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Projects.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Risks.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Subtasks.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Tasks.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управлен.D7FB6ADF.Up2Date
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.PrintOtchotOProekte.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Expenses_Project.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Risks_Project.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Tasks_Project.resources
+C:\Users\Ира\source\repos\Управление проектами\Управление проектами\obj\Debug\Управление_проектами.Subtasks_Tasks.resources
